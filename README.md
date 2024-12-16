@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm Diwan Sachidu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm ChaMal JayaSinGhe</h1>
 
 
 ```javascript
